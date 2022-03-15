@@ -318,6 +318,7 @@ button{
 }
 
 .bg-top {
+    margin-top: 50px;
     grid-area: Top;
     background-color: white;
 }
@@ -451,7 +452,7 @@ box-shadow: 2px 18px 14px -8px rgba(97,154,224,0.3);
 /* footer seccion */
 footer{
     background-color: #EEF3FF;
-   padding: 1% 5% 1% 10%;
+   padding: 5% 5% 1% 10%;
 }
 
 .footer-grid {
